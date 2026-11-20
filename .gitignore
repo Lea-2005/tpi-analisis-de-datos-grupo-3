@@ -1,0 +1,24 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Datos generados por el notebook (se recrean al ejecutarlo) ---
+data/raw/*.csv
+data/processed/*.csv
+
+# --- Sistema operativo / editores ---
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# --- Credenciales (nunca subirlas) ---
+kaggle.json
+.env
