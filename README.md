@@ -95,7 +95,7 @@ Ver detalle y diccionario de variables en [`data/README.md`](data/README.md).
 | Sección | Contenido | Estado |
 |---|---|---|
 | **A. Fundamentos, ingesta y limpieza** | Problema, hipótesis, clasificación de variables, tratamiento de `TotalCharges`, dtypes, outliers (IQR), filtrado, `groupby`, columnas calculadas | ✅ |
-| **B. Análisis exploratorio y visualización** | Medidas de tendencia central y dispersión, correlación de Pearson, tablas de contingencia, histogramas/KDE, heatmap, barras de churn | ⏳ |
+| **B. Análisis exploratorio y visualización** | Medidas de tendencia central y dispersión, correlación de Pearson, tablas de contingencia, histogramas/KDE, heatmap, barras de churn | ✅ |
 | **C. Reproducibilidad** | Colab, semilla fija, controles automáticos, Git, README | ✅ |
 
 ## ♻️ Reproducibilidad
